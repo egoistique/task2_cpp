@@ -1,0 +1,10 @@
+﻿  Account.cpp
+  Bank.cpp
+  BankingSystem.cpp
+  Client.cpp
+  IndividualClient.cpp
+  LegalClient.cpp
+  main.cpp
+C:\Users\Kate\Documents\3 курс\c++\task2\task2\main.cpp(363,55): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  task2.vcxproj -> C:\Users\Kate\Documents\3 курс\c++\task2\x64\Debug\task2.exe
